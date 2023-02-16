@@ -1,0 +1,29 @@
+
+.nav ul,h1 {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+}
+
+.nav li {
+    padding-left: 1rem;
+    font-size: 4rem;
+
+}
+
+.nav a {
+    text-decoration: none;
+    color: aliceblue;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+.nav a:hover{
+    color:rgb(171, 113, 4) ;
+    text-shadow: 5px 5px 5px aliceblue;
+}
+.nav h1 {
+    font-size: 6rem;
+    color: #efefee;
+    text-shadow: 1rem 1rem 1rem #e3e3e3;
+}

@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(214, 149, 125);
+    color: #e3e3e3;
+}
+
+
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section img {
+    height: 15rem;
+    width: 15rem;
+    border-radius: 2rem;
+    box-shadow: 0.1rem 0.1rem 1rem 0.2rem rgb(244, 241, 234);
+}
+
+section article li {
+    margin: 2rem;
+
+    padding: 2rem;
+    border-radius: 5rem;
+    border-bottom: 5px solid rgb(194, 191, 184);
+    text-align: center;
+}
+
+section ol {
+
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+article {
+    text-align: center;
+}
+
+article h2 {
+    font-size: 4rem;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}

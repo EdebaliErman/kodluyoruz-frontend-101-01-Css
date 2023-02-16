@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 198, 128);
+    color: #efefee;
+}
+
+
+h1{
+    font-size: 5rem;
+    color: #efefee;
+    text-shadow: 1rem 1rem 1rem #e3e3e3;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+}
+li{
+    text-decoration: none;
+    color: aliceblue;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    padding: 2rem;
+    font-size: 3rem;
+}
+p{font-size: 2rem;}
